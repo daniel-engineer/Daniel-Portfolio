@@ -2,7 +2,7 @@ Subroutine Type936
 !-----------------------------------------------------------------------------------------------------------------------
 ! This subroutine models a refrigerator.
 !-----------------------------------------------------------------------------------------------------------------------
-! Copyright © 2011 Thermal Energy System Specialists, LLC. All rights reserved.
+! Copyright Â© 2011 Thermal Energy System Specialists, LLC. All rights reserved.
 
 !export this subroutine for its use in external DLLs.
 !DEC$ATTRIBUTES DLLEXPORT :: TYPE936
