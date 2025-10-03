@@ -22,6 +22,8 @@ This contains mostly source code files related to my work with **TRNSYS** and **
 It emulates the behaviour of domestic refrigeration systems.*
 - [Type936VF.f90](src/Type936VF.f90)
 *Modified version of Type936, developed to enable deeper parametric studies, including PCM modelling and new smart control strategies.*
+- [Type59_PCM_FDM.f90](src/Type59_PCM_FDM.f90)
+*Novel TRNSYS model developed to simulate the heat transfer in PCM slabs considering 1D conduction with the Finite Difference Method and the intrinsic approach*
 
 
 ## 🔗 Notes
