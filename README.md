@@ -18,3 +18,8 @@ This folder contains scientific articles, my master’s thesis, and other releva
 # src > In this folder you can find mostly source code files from the work I have conducted with TRNSYS, which included coding in FORTRAN
   - Type936.f90 - this is the original source code available in the library when one holds a license to run the SOFTWARE - it emulates the behaviour of domestic refrigeration systems
   - Type936VF.f90 - this source code consists of 
+
+
+## 🔗 Notes
+- All documents provided here are either authored by me or shared with permission for demonstration purposes.  
+- For more details about my research and professional background, please visit my [LinkedIn](https://www.linkedin.com/in/danielmarqueseng/)
