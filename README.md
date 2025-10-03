@@ -1,13 +1,14 @@
 # Portfolio
 
-Hello, here is Daniel, Master in Mechanical Engineer since 2018 and concluding a PhD in the same field.
+Hello, my name is **Daniel Marques**, I hold a **Master's Degree in Mechanical Engineering (2018)** and I am currently concluding my **PhD in the same field** at the University of Aveiro.
 
-In this repository you can find some of the work I have performed in my initial years as a professional.
+This repository contains selected work from my academic and early professional journey, including **scientific documents** and **source code** related to thermodynamics, renewable energy, and energy storage in PCMs.
 
-# Folder:
-
-# docs > In this folder you can scietific articles, thesis, and other relevant documents
-  - Daniel_Master_Thesis.pdf - This is my document presented in 2018 in the conclusion of my Master's Degree at the Univeristy of Aveiro
+---
+# docs
+This folder contains scientific articles, my master’s thesis, and other relevant documents.
+- [Daniel_Master_Thesis.pdf](docs/Daniel_Master_Thesis.pdf)
+*This is my Master's Thesis presented in 2018 at the Univeristy of Aveiro.* 
   - Daniel_PhD_Paper1.pdf - This paper is my literature review conducted during my PhD in which I identify some of the research gaps to which my PhD thesis will contribute
   - Daniel_PhD_Paper2.pdf - This paper reports the results obtained from a set of experimental tests on prototypes of Domestic Chest Freezers with and without PCMs for energy Storage. 
     The work was mainly conducted by Dr. Vitor Silva and his team at TENSAI Indústria SA, while I have contributed with post-data treatment and analysis and with the whole paper writing process.
